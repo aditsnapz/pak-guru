@@ -89,10 +89,11 @@
 		  <!--/.col-->
 		</div>
     <!--/.row-->
-    <div class="row">
+    <div class="row justify-content-center p-3">
     	<div class="col-sm-12 col-lg-6">
     		<div class="card">
-				<img class="image-dashboard" src="{{url('img/dashboard/alur.png')}}">
+					<img class="image-dashboard" src="{{url('img/dashboard/alur.png')}}">
+				</div>
 			</div>
 		</div>
 			<!--/.col-->

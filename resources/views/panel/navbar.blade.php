@@ -13,7 +13,7 @@
     <li class="nav-item dropdown">
       <a class="nav-link dropdown-toggle nav-link" data-toggle="dropdown" href="#" role="button" aria-haspopup="true" aria-expanded="false">
         @if (Auth::check())
-            <img class="img-avatar img-avatar96 img-avatar-thumb" src="{{url('img/foto/user/A11.2016.09670.jpg')}}" alt="">
+          <img class="img-avatar img-avatar96 img-avatar-thumb" src="{{url('img/foto/user/A11.2016.09670.jpg')}}" alt="">
         @else
           <img src="{{ asset('img/avatars/6.jpg') }}" class="img-avatar">
         @endif

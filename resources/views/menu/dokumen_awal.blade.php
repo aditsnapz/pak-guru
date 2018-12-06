@@ -30,7 +30,7 @@
 						</form>
 						<table class="table table-responsive-sm table-bordered">
 							<thead>
-								<tr>
+								<tr class="text-center">
 									<th>No</th>
 									<th>Nama</th>
 									<th>Status</th>
@@ -41,7 +41,127 @@
 								<tr>
 									<td>1</td>
 									<td>SK CPNS</td>
-									<td>Status</td>
+									<td>Belum Upload</td>
+									<td>
+										1
+									</td>
+								</tr>
+								<tr>
+									<td>2</td>
+									<td>SK PNS</td>
+									<td>Belum Upload</td>
+									<td>
+										1
+									</td>
+								</tr>
+								<tr>
+									<td>3</td>
+									<td>KARPEG</td>
+									<td>Belum Upload</td>
+									<td>
+										1
+									</td>
+								</tr>
+								<tr>
+									<td>4</td>
+									<td>SK NIP BARU</td>
+									<td>Belum Upload</td>
+									<td>
+										1
+									</td>
+								</tr>
+								<tr>
+									<td>5</td>
+									<td>PAK PENYESUAIAN</td>
+									<td>Belum Upload</td>
+									<td>
+										1
+									</td>
+								</tr>
+								<tr>
+									<td>6</td>
+									<td>PAK SEBELUMNYA</td>
+									<td>Belum Upload</td>
+									<td>
+										1
+									</td>
+								</tr>
+								<tr>
+									<td>7</td>
+									<td>SK JABATAN FUNGSIONAL</td>
+									<td>Belum Upload</td>
+									<td>
+										1
+									</td>
+								</tr>
+								<tr>
+									<td>8</td>
+									<td>SK KENAIKAN PANGKAT TERAKHIR</td>
+									<td>Belum Upload</td>
+									<td>
+										1
+									</td>
+								</tr>
+								<tr>
+									<td>9</td>
+									<td>IJASAH TERAKHIR</td>
+									<td>Belum Upload</td>
+									<td>
+										1
+									</td>
+								</tr>
+								<tr>
+									<td>10</td>
+									<td>AKTA-IV</td>
+									<td>Belum Upload</td>
+									<td>
+										1
+									</td>
+								</tr>
+								<tr>
+									<td>11</td>
+									<td>TRANSKRIP NILAI</td>
+									<td>Belum Upload</td>
+									<td>
+										1
+									</td>
+								</tr>
+								<tr>
+									<td>12</td>
+									<td>IZIN BELAJAR</td>
+									<td>Belum Upload</td>
+									<td>
+										1
+									</td>
+								</tr>
+								<tr>
+									<td>13</td>
+									<td>IZIN PENGGUNAAN GELAR</td>
+									<td>Belum Upload</td>
+									<td>
+										1
+									</td>
+								</tr>
+								<tr>
+									<td>14</td>
+									<td>KARTU PEGAWAI ELEKTRONIK</td>
+									<td>Belum Upload</td>
+									<td>
+										1
+									</td>
+								</tr>
+								<tr>
+									<td>15</td>
+									<td>PENILAIAN PRESTASI PNS</td>
+									<td>Belum Upload</td>
+									<td>
+										1
+									</td>
+								</tr>
+								<tr>
+									<td>16</td>
+									<td>SK MUTASI</td>
+									<td>Belum Upload</td>
 									<td>
 										1
 									</td>

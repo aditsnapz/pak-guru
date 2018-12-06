@@ -23,9 +23,15 @@ Auth::routes();
 	Route::middleware('auth')->group(function() {
 	Route::view('/', 'menu.dashboard')->name('dashboard');
 	Route::view('/data_pribadi','menu.data_pribadi')->name('data_pribadi');
-	Route::view('/dokumen_awal','menu.dokumen_awal')->name('dokumen_awal');
+	// Route::view('/dokumen_awal','menu.dokumen_awal')->name('dokumen_awal');
+	Route::get('/dokumen_awal', 'CobaController@index')->name('dokumen_awal');
 	Route::view('/dokumen_penilaian','menu.dokumen_penilaian')->name('dokumen_penilaian');
 
+	Route::view('/admin', 'admin.dashboard');
+	Route::view('/admin/guru', 'admin.list');
+	Route::view('/admin/guru/{id}', 'admin.detail');
+	Route::view('/admin/{id}', 'admin.profile');
+	
 	// Section CoreUI elements
 	Route::view('/sample/dashboard','samples.dashboard');
 	Route::view('/sample/buttons','samples.buttons');

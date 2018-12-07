@@ -31,7 +31,7 @@
 								
 							</li>
 							<li class="nav-item">
-								<a class="nav-link" data-toggle="tab" href="#bukti_kegiatan" role="tab" aria-controls="home">Bukti Fisik Kegiatan</a>
+								<a class="nav-link" data-toggle="tab" href="#bukti_kegiatan" role="tab" aria-controls="home">Bukti Kegiatan</a>
 								
 							</li>
 						</ul>
@@ -42,9 +42,7 @@
 				                      <label class="col-md-2 col-form-label" for="select">Pilih Dokumen Upload</label>
 				                      <div class="col-md-4">
 				                        <select name="id_upload" class="form-control">
-				                          <option value="0">--Pilih Dokumen--</option>
-				                          <option value="1">SK CPNS</option>
-				                          <option value="2">SK PNS</option>
+				                          <option value="1">SK Pembagian Tugas</option>
 				                        </select>
 				                      </div>
 				                    </div>
@@ -68,17 +66,11 @@
 									<tbody>
 										<tr>
 											<td class="text-center">1</td>
-											<td>SK CPNS</td>
+											<td>SK Pembagian Tugas</td>
 											<td>Status</td>
 											<td>
 												1
 											</td>
-										</tr>
-										<tr>
-											<td class="text-center">2</td>
-											<td>SK PNS</td>
-											<td>Status</td>
-											<td>1</td>
 										</tr>
 									</tbody>
 								</table>
@@ -144,7 +136,7 @@
 				            			</div>
 				            		</div>
 								</form>
-								<table class="table table-responsive-sm table-bordered">
+								<table class="table table-responsive-sm table-bordered table-md">
 									<thead>
 										<tr class="text-center">
 											<th>No</th>

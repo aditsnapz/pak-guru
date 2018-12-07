@@ -128,7 +128,7 @@
 		                    </div>
 		                    <div class="form-group row">
 		                      <label class="col-md-2 col-form-label" for="text-input">MKG LAMA</label>
-		                      <div class="col-md-4">
+		                      <div class="col-md-6">
 		                      	<div class="row">
 		                      		<div class="col-md-2">
 		                      			<input type="text" name="mk_lama_tahun" class="form-control" >
@@ -141,7 +141,7 @@
 		                    </div>
 		                     <div class="form-group row">
 		                      <label class="col-md-2 col-form-label" for="text-input">MKG BARU</label>
-		                      <div class="col-md-4">
+		                      <div class="col-md-6">
 		                      	<div class="row">
 		                      		<div class="col-md-2">
 		                      			<input type="text" name="mk_baru_tahun" class="form-control" >
@@ -174,7 +174,7 @@
 		                    <div class="form-group row">
 		                      <label class="col-md-2 col-form-label" for="text-input">No Peserta Sertifikasi</label>
 		                      <div class="col-md-6">
-		                        <input type="text" name="no_peserta_sertifikasi" class="form-control" placeholder="" >
+		                        <input type="text" name="no_peserta_sertifikasi" class="form-control" placeholder="No Peserta Sertifikasi" >
 		                      </div>
 		                    </div>
 		                    <div class="form-group row">
